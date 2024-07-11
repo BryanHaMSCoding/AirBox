@@ -1,0 +1,119 @@
+.bootstrapHeader {
+    background-color: #262336;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.title {
+    background: linear-gradient( #ffffff, #5d647d);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    margin-left: 0px;
+}
+
+.bootstrapHeader button {
+    background-color: #262336;
+    color: #5d647d;
+    border: 0px;
+    display: inline-block;
+}
+
+.bootstrapCustomerSupport {
+    text-align: center;
+    background-color: #262336;
+    color: #ffffff;
+    border-top: #5d647d 2px solid;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.bootstrapCustomerSupport h1 {
+    font-size: 50px;
+}
+
+.bootstrapCustomerSupport h3 {
+    background: linear-gradient( #ffffff, #5d647d);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.bootstrapCustomerSupport h2 {
+    font-size: 35px;
+    background: linear-gradient( #ffffff, #5d647d);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.bootstrapCustomerSupport button {
+    background-color: #9f98bb;
+    color: #ffedde;
+    border-radius: 10px;
+}
+
+.bootstrapCustomerSupport p {
+    color: #5d647d;
+}
+
+.bootstrapServices {
+    background-color: #f29b66;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.bootstrapServices h3 {
+    color: #ffffff;
+    font-size: xx-large;
+}
+
+.bootstrapServices p {
+    text-align: center;
+    font-size: large;
+}
+
+.bootstrapPriceGuide {
+    background-color: #e8e8ea;
+    text-align: center;
+}
+
+.bootstrapPriceGuide button {
+    background-color: #e66033;
+    color: #ffffff;
+    border: 1px;
+    border-radius: 10px;
+    border-top: 0px;
+    padding: 10px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.bootstrapPriceGuide h1 {
+    background: linear-gradient(#e8e8ea, #6f6c89);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+
+.bootstrapPriceGuide h2 {
+    border-top: solid 2px #e8e8ea; 
+    background-color:#6f6c89;
+    color: #ffffff;
+    margin-top: 1px;
+    height: 70px;
+    text-align: center;
+    line-height: 70px;
+}
+
+.bootstrapOtherServices {
+    background-color: #262336;
+    color: #ffffff;
+}
+
+.bootstrapOtherServices h1 {
+    background: linear-gradient(#ffffff, #e8e8ea, #6f6c89);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: x-large;
+}
+
+.bootstrapOtherServices li::marker {
+    color: #f29b66;
+    font-size: 1.5rem;
+}
